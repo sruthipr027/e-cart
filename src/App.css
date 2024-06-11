@@ -1,0 +1,21 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+.image{
+  height: 550px;
+  overflow-y: hidden;
+}
+#buttonback{
+  margin-left: 500px;
+ 
+}
+#buttonbackcart{
+  margin-left: 550px;
+  margin-top: 200px;
+  width: 200px;
+ 
+}
+
